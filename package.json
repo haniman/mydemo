@@ -1,0 +1,27 @@
+{
+  "name": "mydemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/haniman/mydemo.git"
+  },
+  "author": "Hani Man",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haniman/mydemo/issues"
+  },
+  "homepage": "https://github.com/haniman/mydemo#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.12.9"
+  }
+}
